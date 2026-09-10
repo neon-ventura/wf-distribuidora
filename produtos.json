@@ -453,5 +453,18 @@
   "ordem": 34,
   "criado": "2026-09-10T12:47:19.777Z",
   "atualizado": "2026-09-10T12:47:19.777Z"
+ },
+ {
+  "id": "pmtvivarf",
+  "nome": "Itts Seró +Energy sem açúcar 2 L",
+  "cat": "Energéticos",
+  "desc": "Energético sabor original, sem açúcar. Garrafa de 2 litros.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/itts-sero-energy-sem-acucar-2-l-1789044441630.webp",
+  "publicado": true,
+  "ordem": 35,
+  "criado": "2026-09-10T12:47:22.683Z",
+  "atualizado": "2026-09-10T12:47:22.683Z"
  }
 ]
