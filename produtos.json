@@ -206,5 +206,18 @@
   "ordem": 15,
   "criado": "2026-09-10T12:46:21.233Z",
   "atualizado": "2026-09-10T12:46:21.233Z"
+ },
+ {
+  "id": "pmtviu3n8",
+  "nome": "Campari",
+  "cat": "Aperitivos e licores",
+  "desc": "Bitter italiano, base do negroni e do spritz.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/campari-1789044385770.webp",
+  "publicado": true,
+  "ordem": 16,
+  "criado": "2026-09-10T12:46:26.804Z",
+  "atualizado": "2026-09-10T12:46:26.804Z"
  }
 ]
