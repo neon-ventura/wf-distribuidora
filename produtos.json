@@ -258,5 +258,18 @@
   "ordem": 19,
   "criado": "2026-09-10T12:46:35.375Z",
   "atualizado": "2026-09-10T12:46:35.375Z"
+ },
+ {
+  "id": "pmtviucgm",
+  "nome": "Reggiani Coquetel Composto",
+  "cat": "Aperitivos e licores",
+  "desc": "Coquetel composto, 13,5%. Garrafa de 900 ml.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/reggiani-coquetel-composto-1789044397102.webp",
+  "publicado": true,
+  "ordem": 20,
+  "criado": "2026-09-10T12:46:38.230Z",
+  "atualizado": "2026-09-10T12:46:38.230Z"
  }
 ]
