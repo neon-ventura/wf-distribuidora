@@ -37,5 +37,18 @@
   "ordem": 2,
   "criado": "2026-09-10T12:45:41.052Z",
   "atualizado": "2026-09-10T12:45:41.052Z"
+ },
+ {
+  "id": "pmtvit6nw",
+  "nome": "Paratudo",
+  "cat": "Cachaças",
+  "desc": "Aguardente composta com ervas, um clássico do balcão brasileiro.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/paratudo-1789044343004.webp",
+  "publicado": true,
+  "ordem": 3,
+  "criado": "2026-09-10T12:45:44.060Z",
+  "atualizado": "2026-09-10T12:45:44.060Z"
  }
 ]
