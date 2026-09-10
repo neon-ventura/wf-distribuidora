@@ -388,5 +388,18 @@
   "ordem": 29,
   "criado": "2026-09-10T12:47:04.579Z",
   "atualizado": "2026-09-10T12:47:04.579Z"
+ },
+ {
+  "id": "pmtviuz89",
+  "nome": "Cantina da Serra Clássico",
+  "cat": "Vinhos",
+  "desc": "Coquetel composto, 10,5%. Garrafa de 1,5 litro.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/cantina-da-serra-classico-1789044426578.webp",
+  "publicado": true,
+  "ordem": 30,
+  "criado": "2026-09-10T12:47:07.737Z",
+  "atualizado": "2026-09-10T12:47:07.737Z"
  }
 ]
