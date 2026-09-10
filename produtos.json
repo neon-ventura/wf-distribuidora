@@ -323,5 +323,18 @@
   "ordem": 24,
   "criado": "2026-09-10T12:46:50.438Z",
   "atualizado": "2026-09-10T12:46:50.438Z"
+ },
+ {
+  "id": "pmtviunyr",
+  "nome": "Vinho Pérgola Tinto Suave",
+  "cat": "Vinhos",
+  "desc": "Vinho de mesa tinto suave do Rio Grande do Sul.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/vinho-pergola-tinto-suave-1789044412091.webp",
+  "publicado": true,
+  "ordem": 25,
+  "criado": "2026-09-10T12:46:53.139Z",
+  "atualizado": "2026-09-10T12:46:53.139Z"
  }
 ]
