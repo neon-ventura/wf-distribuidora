@@ -128,5 +128,18 @@
   "ordem": 9,
   "criado": "2026-09-10T12:46:03.280Z",
   "atualizado": "2026-09-10T12:46:03.280Z"
+ },
+ {
+  "id": "pmtvitnsw",
+  "nome": "Vodka Smirnoff Nº 21",
+  "cat": "Vodcas",
+  "desc": "Dez vezes filtrada. Garrafa de 998 ml.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/vodka-smirnoff-n-21-1789044365237.webp",
+  "publicado": true,
+  "ordem": 10,
+  "criado": "2026-09-10T12:46:06.272Z",
+  "atualizado": "2026-09-10T12:46:06.272Z"
  }
 ]
