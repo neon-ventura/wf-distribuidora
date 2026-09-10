@@ -76,5 +76,18 @@
   "ordem": 5,
   "criado": "2026-09-10T12:45:50.694Z",
   "atualizado": "2026-09-10T12:45:50.694Z"
+ },
+ {
+  "id": "pmtvite66",
+  "nome": "Moby Dick Carvalho com Mel",
+  "cat": "Cachaças",
+  "desc": "Cachaça artesanal envelhecida em carvalho com mel, 100% natural.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/moby-dick-carvalho-com-mel-1789044352550.webp",
+  "publicado": true,
+  "ordem": 6,
+  "criado": "2026-09-10T12:45:53.790Z",
+  "atualizado": "2026-09-10T12:45:53.790Z"
  }
 ]
