@@ -375,5 +375,18 @@
   "ordem": 28,
   "criado": "2026-09-10T12:47:01.790Z",
   "atualizado": "2026-09-10T12:47:01.790Z"
+ },
+ {
+  "id": "pmtviuwsj",
+  "nome": "Vinho Galiotto Seco",
+  "cat": "Vinhos",
+  "desc": "Vinho de mesa tinto seco da Serra Gaúcha. Garrafa de 1 litro.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/vinho-galiotto-seco-1789044423572.webp",
+  "publicado": true,
+  "ordem": 29,
+  "criado": "2026-09-10T12:47:04.579Z",
+  "atualizado": "2026-09-10T12:47:04.579Z"
  }
 ]
