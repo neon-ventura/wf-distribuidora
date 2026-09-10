@@ -440,5 +440,18 @@
   "ordem": 33,
   "criado": "2026-09-10T12:47:16.840Z",
   "atualizado": "2026-09-10T12:47:16.840Z"
+ },
+ {
+  "id": "pmtviv8ip",
+  "nome": "Energético Baly Tradicional 2 L",
+  "cat": "Energéticos",
+  "desc": "Energético sabor original, garrafa de 2 litros.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/energetico-baly-tradicional-2-l-1789044438793.webp",
+  "publicado": true,
+  "ordem": 34,
+  "criado": "2026-09-10T12:47:19.777Z",
+  "atualizado": "2026-09-10T12:47:19.777Z"
  }
 ]
