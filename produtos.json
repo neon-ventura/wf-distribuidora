@@ -11,5 +11,18 @@
   "ordem": 0,
   "criado": "2026-09-10T12:45:34.498Z",
   "atualizado": "2026-09-10T12:45:34.498Z"
+ },
+ {
+  "id": "pmtvit1sc",
+  "nome": "Ypióca Prata",
+  "cat": "Cachaças",
+  "desc": "Aguardente de cana do Ceará, 38%. Prata, sem envelhecimento em madeira.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/ypioca-prata-1789044336444.webp",
+  "publicado": true,
+  "ordem": 1,
+  "criado": "2026-09-10T12:45:37.740Z",
+  "atualizado": "2026-09-10T12:45:37.740Z"
  }
 ]
