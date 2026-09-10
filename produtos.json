@@ -89,5 +89,18 @@
   "ordem": 6,
   "criado": "2026-09-10T12:45:53.790Z",
   "atualizado": "2026-09-10T12:45:53.790Z"
+ },
+ {
+  "id": "pmtvitgfl",
+  "nome": "Whisky Chivas Regal 12 anos",
+  "cat": "Whiskies",
+  "desc": "Blended Scotch Whisky envelhecido 12 anos.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/whisky-chivas-regal-12-anos-1789044355619.webp",
+  "publicado": true,
+  "ordem": 7,
+  "criado": "2026-09-10T12:45:56.721Z",
+  "atualizado": "2026-09-10T12:45:56.721Z"
  }
 ]
