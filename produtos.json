@@ -115,5 +115,18 @@
   "ordem": 8,
   "criado": "2026-09-10T12:46:00.171Z",
   "atualizado": "2026-09-10T12:46:00.171Z"
+ },
+ {
+  "id": "pmtvitlhs",
+  "nome": "Ballantine's Sunshine",
+  "cat": "Whiskies",
+  "desc": "Spirit drink do Ballantine’s com notas tropicais.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/ballantine-s-sunshine-1789044362183.webp",
+  "publicado": true,
+  "ordem": 9,
+  "criado": "2026-09-10T12:46:03.280Z",
+  "atualizado": "2026-09-10T12:46:03.280Z"
  }
 ]
