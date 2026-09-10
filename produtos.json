@@ -297,5 +297,18 @@
   "ordem": 22,
   "criado": "2026-09-10T12:46:44.547Z",
   "atualizado": "2026-09-10T12:46:44.547Z"
+ },
+ {
+  "id": "pmtviuji5",
+  "nome": "Ballena Cream Tequila Coco",
+  "cat": "Aperitivos e licores",
+  "desc": "Licor fino de coco, 16%. Garrafa de 750 ml. Beba bem gelado.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/ballena-cream-tequila-coco-1789044406374.webp",
+  "publicado": true,
+  "ordem": 23,
+  "criado": "2026-09-10T12:46:47.357Z",
+  "atualizado": "2026-09-10T12:46:47.357Z"
  }
 ]
