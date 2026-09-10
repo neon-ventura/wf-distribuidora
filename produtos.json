@@ -349,5 +349,18 @@
   "ordem": 26,
   "criado": "2026-09-10T12:46:56.082Z",
   "atualizado": "2026-09-10T12:46:56.082Z"
+ },
+ {
+  "id": "pmtviusal",
+  "nome": "Vinho Monte Carmo Tinto Seco",
+  "cat": "Vinhos",
+  "desc": "Vinho de mesa tinto seco, da Vinícola Vilena.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/vinho-monte-carmo-tinto-seco-1789044417794.webp",
+  "publicado": true,
+  "ordem": 27,
+  "criado": "2026-09-10T12:46:58.749Z",
+  "atualizado": "2026-09-10T12:46:58.749Z"
  }
 ]
