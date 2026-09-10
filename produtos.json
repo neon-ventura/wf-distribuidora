@@ -336,5 +336,18 @@
   "ordem": 25,
   "criado": "2026-09-10T12:46:53.139Z",
   "atualizado": "2026-09-10T12:46:53.139Z"
+ },
+ {
+  "id": "pmtviuq8i",
+  "nome": "Vinho Monte Carmo Tinto Suave",
+  "cat": "Vinhos",
+  "desc": "Vinho de mesa tinto suave, da Vinícola Vilena.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/vinho-monte-carmo-tinto-suave-1789044415028.webp",
+  "publicado": true,
+  "ordem": 26,
+  "criado": "2026-09-10T12:46:56.082Z",
+  "atualizado": "2026-09-10T12:46:56.082Z"
  }
 ]
