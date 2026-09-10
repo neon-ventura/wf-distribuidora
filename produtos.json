@@ -102,5 +102,18 @@
   "ordem": 7,
   "criado": "2026-09-10T12:45:56.721Z",
   "atualizado": "2026-09-10T12:45:56.721Z"
+ },
+ {
+  "id": "pmtvitj3f",
+  "nome": "Whisky Johnnie Walker Red Label",
+  "cat": "Whiskies",
+  "desc": "Blended Scotch Whisky, o rótulo vermelho da casa.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/whisky-johnnie-walker-red-label-1789044358716.webp",
+  "publicado": true,
+  "ordem": 8,
+  "criado": "2026-09-10T12:46:00.171Z",
+  "atualizado": "2026-09-10T12:46:00.171Z"
  }
 ]
