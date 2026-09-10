@@ -193,5 +193,18 @@
   "ordem": 14,
   "criado": "2026-09-10T12:46:18.339Z",
   "atualizado": "2026-09-10T12:46:18.339Z"
+ },
+ {
+  "id": "pmtvitzch",
+  "nome": "Gin Rock's Doce Watermelon",
+  "cat": "Gins",
+  "desc": "Gin doce sabor melancia.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/gin-rock-s-doce-watermelon-1789044380166.webp",
+  "publicado": true,
+  "ordem": 15,
+  "criado": "2026-09-10T12:46:21.233Z",
+  "atualizado": "2026-09-10T12:46:21.233Z"
  }
 ]
