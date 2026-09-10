@@ -284,5 +284,18 @@
   "ordem": 21,
   "criado": "2026-09-10T12:46:41.441Z",
   "atualizado": "2026-09-10T12:46:41.441Z"
+ },
+ {
+  "id": "pmtviuhc3",
+  "nome": "Bananinha Mineira",
+  "cat": "Aperitivos e licores",
+  "desc": "Coquetel alcoólico sabor banana, natural.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/bananinha-mineira-1789044403520.webp",
+  "publicado": true,
+  "ordem": 22,
+  "criado": "2026-09-10T12:46:44.547Z",
+  "atualizado": "2026-09-10T12:46:44.547Z"
  }
 ]
