@@ -414,5 +414,18 @@
   "ordem": 31,
   "criado": "2026-09-10T12:47:11.083Z",
   "atualizado": "2026-09-10T12:47:11.083Z"
+ },
+ {
+  "id": "pmtviv40r",
+  "nome": "Energético Minotauro Tradicional 2 L",
+  "cat": "Energéticos",
+  "desc": "Energético tradicional, garrafa de 2 litros.",
+  "preco": "",
+  "badge": "",
+  "img": "https://raw.githubusercontent.com/neon-ventura/wf-distribuidora/main/uploads/energetico-minotauro-tradicional-2-l-1789044432863.webp",
+  "publicado": true,
+  "ordem": 32,
+  "criado": "2026-09-10T12:47:13.947Z",
+  "atualizado": "2026-09-10T12:47:13.947Z"
  }
 ]
